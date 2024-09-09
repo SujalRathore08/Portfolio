@@ -9,6 +9,7 @@ height: 100%;
 position: absolute;
 top: 0;
 left: 0;
+
 background-color: #000000a7;
 display: flex;
 align-items: top;
